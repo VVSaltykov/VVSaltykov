@@ -2,9 +2,6 @@
   <img src="https://media.giphy.com/media/IIIg3ZHcOqYtW0wEIB/giphy-downsized.gif" width="150"/>
 </div>
 <div id="badges" align="center">
-  <a href="https://vk.com/monicabelucciingucci">
-    <img src="https://img.shields.io/badge/Vkontakte-blue?style=for-the-badge&logo=vk&logoColor=white" alt="Vk Badge"/>
-  </a>
   <a href="https://t.me/VVSaltykov">
     <img src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
