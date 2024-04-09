@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <iframe src="https://giphy.com/embed/XyyjAzF0kYI4U" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/bear-cute-disney-XyyjAzF0kYI4U">via GIPHY</a></p>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3hsNW9iZTAwc3lnenQ4dHZvbG5ybmY1OW9xNG0waGQwdGJwYWNyaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XyyjAzF0kYI4U/giphy.gif" width="150px"/>
 </div>
 <div id="badges" align="center">
   <a href="https://t.me/VVSaltykov">
