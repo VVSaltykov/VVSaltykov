@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://gifs.ru/gifs/9266" width="300px"/>
+  <img src="https://gifs.ru/embed/e388388ab4b0af4834ddf9a62f98b5b9854e320a4c62d815b5e4985c4e7b5911" width="300px"/>
 </div>
 <div id="badges" align="center">
   <a href="https://t.me/VVSaltykov">
