@@ -1,14 +1,11 @@
-<div id="header" align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzYwZmJtNXM5bjZ0b3o4eHk3bTZ1bGJnMXltN3RkMWw1bmZla2YwciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kKdgdeuO2M08M/giphy.gif" width="300px"/>
-</div>
 <div id="badges" align="center">
-  <a href="https://t.me/VVSaltykov">
-    <img src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
-  </a>
   <h1>
   Hello, World!
   <img src="https://i.gifer.com/origin/13/13d6f03fa7d96e8e46d81f005ef51c63.gif" width="30px"/>
   </h1>
+  <a href="https://t.me/VVSaltykov">
+    <img src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
 </div>
 
 ### :hammer_and_wrench: Languages and Tools :
